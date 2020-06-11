@@ -47,6 +47,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [虚拟试衣](#Virtual-Try-On)
 - [HDR](#HDR)
 - [对抗样本](#AE)
+- [深度补全](#DC)
 - [语义场景补全](#SSC)
 - [数据集](#Datasets)
 - [其他](#Others)
@@ -93,6 +94,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Object-Detection"></a>
 
 # 目标检测
+
+**D2Det: Towards High Quality Object Detection and Instance Segmentation**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf
+
+- 代码：https://github.com/JialeCao001/D2Det
 
 **Dynamic Refinement Network for Oriented and Densely Packed Object Detection**
 
@@ -227,6 +234,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标跟踪
 
+**SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking**
+
+- 论文：https://arxiv.org/abs/1911.07241
+- 代码：https://github.com/ohhhyeahhh/SiamCAR
+
 **D3S -- A Discriminative Single Shot Segmentation Tracker**
 
 - 论文：https://arxiv.org/abs/1911.08862
@@ -352,6 +364,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Instance-Segmentation"></a>
 
 # 实例分割
+
+**D2Det: Towards High Quality Object Detection and Instance Segmentation**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf
+
+- 代码：https://github.com/JialeCao001/D2Det
 
 **PolarMask: Single Shot Instance Segmentation with Polar Representation**
 
@@ -807,6 +825,12 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 ## 图像超分辨率
 
+**Learning Texture Transformer Network for Image Super-Resolution**
+
+- 论文：https://arxiv.org/abs/2006.04139
+
+- 代码：https://github.com/FuzhiYang/TTSR
+
 **Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining**
 
 - 论文：https://arxiv.org/abs/2006.01424
@@ -1235,6 +1259,16 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - 论文：https://arxiv.org/abs/1911.02466
 - 代码：https://github.com/ZhengyuZhao/PerC-Adversarial 
 
+<a name="DC"></a>
+
+# 深度补全
+
+**Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End**
+
+论文：https://arxiv.org/abs/2006.03349
+
+代码：https://github.com/abdo-eldesokey/pncnn
+
 <a name="SSC"></a>
 
 # 语义场景补全
@@ -1247,6 +1281,13 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 <a name="Datasets"></a>
 
 # 数据集
+
+**Open Compound Domain Adaptation**
+
+- 主页：https://liuziwei7.github.io/projects/CompoundDomain.html
+- 数据集：https://drive.google.com/drive/folders/1_uNTF8RdvhS_sqVTnYx17hEOQpefmE2r?usp=sharing
+- 论文：https://arxiv.org/abs/1909.03403
+- 代码：https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA
 
 **Intra- and Inter-Action Understanding via Temporal Action Parsing**
 
@@ -1346,6 +1387,19 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 <a name="Others"></a>
 
 # 其他
+
+**Open Compound Domain Adaptation**
+
+- 主页：https://liuziwei7.github.io/projects/CompoundDomain.html
+- 数据集：https://drive.google.com/drive/folders/1_uNTF8RdvhS_sqVTnYx17hEOQpefmE2r?usp=sharing
+- 论文：https://arxiv.org/abs/1909.03403
+- 代码：https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA
+
+**Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision**
+
+- 论文：http://www.cvlibs.net/publications/Niemeyer2020CVPR.pdf
+
+- 代码：https://github.com/autonomousvision/differentiable_volumetric_rendering
 
 **QEBA: Query-Efficient Boundary-Based Blackbox Attack**
 
